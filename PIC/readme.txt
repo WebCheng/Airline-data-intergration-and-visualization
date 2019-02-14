@@ -56,3 +56,10 @@ WeatherDelay	in minutes
 NASDelay	in minutes
 SecurityDelay	in minutes
 LateAircraftDelay	in minutes
+
+
+**************
+TABLE carriers
+**************
+Code: Abbreviation of Airline name
+Description: Airline name
