@@ -1,0 +1,514 @@
+,Airport Name,Annual OTP,No. of operations,Country,Sub Region,Star Rating
+0,Nagoya Komaki Airport,94.5,16403,Japan,North East Asia,5*
+1,Hilo,91.4,12932,USA,North America,5*
+2,Sapporo Okadama Apt,90.4,8847,Japan,North East Asia,5*
+3,Santa Cruz de la Palma,90,17632,Spain,Western Europe,5*
+4,Kushiro,89.7,10859,Japan,North East Asia,5*
+5,Panama City Tocumen International,89.5,134734,Panama,Central America,5*
+6,Lihue,89.3,29833,USA,North America,5*
+7,Kochi (JP),89.2,14624,Japan,North East Asia,5*
+8,Memambetsu,88.9,10348,Japan,North East Asia,5*
+9,Minsk International Apt,88.9,42275,Belarus,Eastern/Central Europe,5*
+10,Tenerife Norte,88.6,61762,Spain,Western Europe,5*
+11,Birmingham Airport,88.5,98849,United Kingdom,Western Europe,5*
+12,Dortmund,88.3,14092,Germany,Western Europe,5*
+13,Osaka Intl (Itami),88.2,137980,Japan,North East Asia,5*
+14,Tampico,88.1,8984,Mexico,Central America,5*
+15,Honolulu,87.9,156650,USA,North America,5*
+16,Tokushima,87.8,8928,Japan,North East Asia,5*
+17,Hanamaki,87.8,8521,Japan,North East Asia,5*
+18,Poznan Lawica Apt,87.7,14178,Poland,Eastern/Central Europe,5*
+19,Izumo,87.7,8538,Japan,North East Asia,5*
+20,Hannover,87.6,49394,Germany,Western Europe,5*
+21,U-Tapao,87.5,10615,Thailand,South East Asia,5*
+22,Mackay,87.4,9415,Australia,Southwest Pacific,5*
+23,Guam Antonio B Won Pat International,87.4,24450,Guam,Southwest Pacific,5*
+24,Cardiff,87.3,14715,United Kingdom,Western Europe,5*
+25,Chihuahua,87.1,16690,Mexico,Central America,5*
+26,Grand Junction,87.1,9087,USA,North America,5*
+27,San Jose Cabo,86.7,40575,Mexico,Central America,5*
+28,Daegu,86.5,22129,Korea Republic of,North East Asia,5*
+29,Salt Lake City,86.5,243683,USA,North America,5*
+30,Teresina,86.5,8872,Brazil,Upper South America,5*
+31,Doha,86.4,187452,Qatar,Middle East,5*
+32,Aomori,86.1,15219,Japan,North East Asia,5*
+33,Tokyo Intl (Haneda),86,500013,Japan,North East Asia,5*
+34,Akita,85.9,15434,Japan,North East Asia,5*
+35,Ko Samui,85.9,31057,Thailand,South East Asia,5*
+36,Takamatsu,85.9,13649,Japan,North East Asia,5*
+37,Hakodate,85.8,18545,Japan,North East Asia,5*
+38,Matsuyama,85.8,27843,Japan,North East Asia,5*
+39,Miyazaki,85.7,41718,Japan,North East Asia,5*
+40,Campo Grande,85.7,13432,Brazil,Upper South America,5*
+41,Okayama,85.6,11544,Japan,North East Asia,5*
+42,Paris Beauvais-Tille Airport,85.6,22199,France,Western Europe,5*
+43,Boise,85.5,47558,USA,North America,5*
+44,Kaohsiung,85.4,51122,Chinese Taipei,North East Asia,5*
+45,Liverpool,85.4,34855,United Kingdom,Western Europe,5*
+46,New Ishigaki,85.4,24459,Japan,North East Asia,5*
+47,Ciudad Juarez,85.3,11405,Mexico,Central America,5*
+48,Vitoria (BR),85.3,25632,Brazil,Upper South America,5*
+49,Kumamoto,85.2,32356,Japan,North East Asia,5*
+50,Rio de Janeiro Santos Dumont Apt,85.2,91779,Brazil,Upper South America,5*
+51,Uberlandia,85.1,11425,Brazil,Upper South America,4*
+52,Cairns,85.1,47311,Australia,Southwest Pacific,4*
+53,Fresno Yosemite International Airport,85,24058,USA,North America,4*
+54,Spokane International Apt,84.9,40710,USA,North America,4*
+55,Cologne/Bonn Apt,84.9,93951,Germany,Western Europe,4*
+56,Durban King Shaka International Apt,84.8,48200,South Africa,Southern Africa,4*
+57,Minneapolis/St Paul International Apt,84.8,374405,USA,North America,4*
+58,Portland International,84.7,184429,USA,North America,4*
+59,Porto Seguro,84.7,11370,Brazil,Upper South America,4*
+60,San Salvador (SV),84.7,42600,El Salvador,Central America,4*
+61,Curitiba Afonso Pena Intl,84.7,58460,Brazil,Upper South America,4*
+62,Anchorage Ted Stevens Intl Apt,84.7,81126,USA,North America,4*
+63,Brasilia,84.6,129138,Brazil,Upper South America,4*
+64,Port Blair,84.6,10596,India,South Asia,4*
+65,Dammam,84.6,78153,Saudi Arabia,Middle East,4*
+66,Belo Horizonte Tancredo Neves Int Apt,84.6,96622,Brazil,Upper South America,4*
+67,Cuiaba,84.6,27991,Brazil,Upper South America,4*
+68,Suva,84.6,9074,Fiji,Southwest Pacific,4*
+69,Sao Luiz,84.5,13752,Brazil,Upper South America,4*
+70,Brussels S. Charleroi Airport,84.4,47448,Belgium,Western Europe,4*
+71,Jazan,84.4,19652,Saudi Arabia,Middle East,4*
+72,Cape Town,84.4,89272,South Africa,Southern Africa,4*
+73,Stavanger,84.4,43534,Norway,Western Europe,4*
+74,Redmond/Bend,84.3,15060,USA,North America,4*
+75,St Petersburg Pulkovo Apt,84.3,135192,Russian Federation,Eastern/Central Europe,4*
+76,Canberra,84.2,40734,Australia,Southwest Pacific,4*
+77,Kagoshima,84.2,67180,Japan,North East Asia,4*
+78,Athens,84.2,181324,Greece,Western Europe,4*
+79,Sao Paulo Viracopos-Campinas Intl Apt,84.1,95591,Brazil,Upper South America,4*
+80,Perth,84.1,95002,Australia,Southwest Pacific,4*
+81,Billings,84.1,19787,USA,North America,4*
+82,Missoula,84,10506,USA,North America,4*
+83,Mexico City Juarez Intl,84,400537,Mexico,Central America,4*
+84,Rio de Janeiro Galeao-A.C.Jobim Int Apt,84,111279,Brazil,Upper South America,4*
+85,Londrina,84,9541,Brazil,Upper South America,4*
+86,Adelaide International,83.9,76572,Australia,Southwest Pacific,4*
+87,Amami,83.9,15228,Japan,North East Asia,4*
+88,Nagoya Chubu Centrair International Apt,83.9,104321,Japan,North East Asia,4*
+89,Fuerteventura,83.8,42153,Spain,Western Europe,4*
+90,Sapporo New Chitose Apt,83.8,165853,Japan,North East Asia,4*
+91,New Plymouth,83.8,10028,New Zealand,Southwest Pacific,4*
+92,Menorca,83.8,23860,Spain,Western Europe,4*
+93,Stuttgart Airport,83.7,101167,Germany,Western Europe,4*
+94,Bozeman,83.7,13828,USA,North America,4*
+95,Lafayette Regional Apt,83.7,9331,USA,North America,4*
+96,Natal,83.6,16813,Brazil,Upper South America,4*
+97,Milan Linate Apt,83.6,97444,Italy,Western Europe,4*
+98,Amarillo Rick Husband Intl Apt,83.5,11224,USA,North America,4*
+99,Abha,83.5,37104,Saudi Arabia,Middle East,4*
+100,Sao Paulo Congonhas Apt,83.5,176485,Brazil,Upper South America,4*
+101,Destin/Ft Walton Beach Apt,83.4,14423,USA,North America,4*
+102,Green Bay,83.4,11262,USA,North America,4*
+103,Aracaju,83.4,9244,Brazil,Upper South America,4*
+104,Brisbane,83.4,191322,Australia,Southwest Pacific,4*
+105,Eugene,83.4,16674,USA,North America,4*
+106,Wroclaw,83.4,22466,Poland,Eastern/Central Europe,4*
+107,Porto Alegre,83.3,65572,Brazil,Upper South America,4*
+108,Fargo,83.3,14523,USA,North America,4*
+109,Detroit Metropolitan Wayne County,83.3,380712,USA,North America,4*
+110,Wellington,83.2,82933,New Zealand,Southwest Pacific,4*
+111,Bahrain,83.2,77157,Bahrain,Middle East,4*
+112,Tauranga,83.2,9862,New Zealand,Southwest Pacific,4*
+113,Santa Ana,83.2,91487,USA,North America,4*
+114,Atlanta Hartsfield-jackson Intl Apt,83.1,858362,USA,North America,4*
+115,Gdansk Lech Walesa,83.1,35996,Poland,Eastern/Central Europe,4*
+116,Bismarck,83.1,9309,USA,North America,4*
+117,Recife,83.1,65289,Brazil,Upper South America,4*
+118,Bodo,83,36249,Norway,Western Europe,4*
+119,Houston George Bush Intercont.,83,431738,USA,North America,4*
+120,Appleton,82.9,11271,USA,North America,4*
+121,San Luis Potosi,82.9,9803,Mexico,Central America,4*
+122,Lanzarote,82.9,51049,Spain,Western Europe,4*
+123,Omaha Eppley Airfield,82.9,52753,USA,North America,4*
+124,Maceio,82.9,14934,Brazil,Upper South America,4*
+125,Johannesburg O.r. Tambo International,82.9,198696,South Africa,Southern Africa,4*
+126,Pensacola International,82.8,24070,USA,North America,4*
+127,Sacramento International Apt,82.8,104979,USA,North America,4*
+128,Lansing,82.8,9216,USA,North America,4*
+129,Wichita Dwight D. Eisenhower Apt,82.7,23382,USA,North America,4*
+130,Seattle-Tacoma International Apt,82.7,406725,USA,North America,4*
+131,Denver Intl Apt,82.7,551667,USA,North America,4*
+132,Calama,82.6,12498,Chile,Upper South America,4*
+133,Goiania,82.6,28678,Brazil,Upper South America,4*
+134,Sao Jose do Rio Preto,82.6,8491,Brazil,Upper South America,4*
+135,Foz do Iguacu,82.6,17425,Brazil,Upper South America,4*
+136,Bergen,82.6,66864,Norway,Western Europe,4*
+137,Trondheim Vaernes Airport,82.5,50277,Norway,Western Europe,4*
+138,Flint,82.5,10607,USA,North America,4*
+139,Medford,82.4,15187,USA,North America,4*
+140,Kansas City International Apt,82.4,114219,USA,North America,4*
+141,Evansville,82.4,10894,USA,North America,4*
+142,Gran Canaria,82.4,100210,Spain,Western Europe,4*
+143,Bremen,82.4,22512,Germany,Western Europe,4*
+144,Jackson Medgar W. Evers Intl Apt,82.4,17178,USA,North America,4*
+145,San Jose Norman Y. Mineta Intl,82.4,127820,USA,North America,4*
+146,Little Rock,82.4,27051,USA,North America,4*
+147,Salzburg W A Mozart,82.4,16953,Austria,Western Europe,4*
+148,Santa Barbara,82.3,14081,USA,North America,4*
+149,Madison,82.3,26939,USA,North America,4*
+150,Cedar Rapids,82.1,20284,USA,North America,4*
+151,Tulsa International Apt,82.1,34761,USA,North America,4*
+152,Pasco,82.1,12492,USA,North America,4*
+153,Shreveport Regional Apt,82.1,13266,USA,North America,4*
+154,Washington Dulles International Apt,82.1,228417,USA,North America,4*
+155,Palm Springs International Apt,82.1,23943,USA,North America,4*
+156,Baton Rouge,82.1,15557,USA,North America,4*
+157,Fortaleza,82,40893,Brazil,Upper South America,3*
+158,Fayetteville/Springdale NW Arkansas Reg,82,28131,USA,North America,3*
+159,San Antonio International Apt,82,84967,USA,North America,3*
+160,Albuquerque,82,57200,USA,North America,3*
+161,Des Moines,82,32427,USA,North America,3*
+162,Bilbao,82,43256,Spain,Western Europe,3*
+163,Reno,81.9,42771,USA,North America,3*
+164,Oklahoma City Will Rogers Apt,81.9,48004,USA,North America,3*
+165,Madrid Adolfo Suarez-Barajas Apt,81.9,375457,Spain,Western Europe,3*
+166,Madurai,81.9,14059,India,South Asia,3*
+167,Midland International Apt,81.9,16665,USA,North America,3*
+168,Tucson International Apt,81.8,37638,USA,North America,3*
+169,San Diego International,81.8,193142,USA,North America,3*
+170,Palermo,81.8,47969,Italy,Western Europe,3*
+171,Myrtle Beach International,81.8,22751,USA,North America,3*
+172,Cordoba,81.8,27554,Argentina,Upper South America,3*
+173,Florianopolis,81.8,31356,Brazil,Upper South America,3*
+174,Dunedin,81.7,10569,New Zealand,Southwest Pacific,3*
+175,Moscow Sheremetyevo International Apt,81.7,289435,Russian Federation,Eastern/Central Europe,3*
+176,Christchurch,81.7,73167,New Zealand,Southwest Pacific,3*
+177,Montpellier Mediterranee Apt,81.7,17610,France,Western Europe,3*
+178,Dallas Dallas/Fort Worth Intl Apt,81.6,624922,USA,North America,3*
+179,Montevideo,81.6,21826,Uruguay,Upper South America,3*
+180,Salvador,81.6,59786,Brazil,Upper South America,3*
+181,Billund,81.6,29808,Denmark,Western Europe,3*
+182,Lubbock Preston Smith International Apt,81.6,13528,USA,North America,3*
+183,Fort Mcmurray,81.6,13223,Canada,North America,3*
+184,Nelson,81.5,25260,New Zealand,Southwest Pacific,3*
+185,Tallahassee,81.5,14338,USA,North America,3*
+186,Mobile Regional Apt,81.5,13479,USA,North America,3*
+187,McAllen/Mission,81.5,9038,USA,North America,3*
+188,Istanbul Sabiha Gokcen Apt,81.5,211856,Turkey,Western Europe,3*
+189,Phoenix Sky Harbor Intl Apt,81.4,374365,USA,North America,3*
+190,Queenstown,81.4,16301,New Zealand,Southwest Pacific,3*
+191,Berlin Schoenefeld Apt,81.4,82262,Germany,Western Europe,3*
+192,Charlotte,81.4,515702,USA,North America,3*
+193,Miyako,81.4,16649,Japan,North East Asia,3*
+194,Huntsville Intl-Carl T. Jones Field,81.4,18569,USA,North America,3*
+195,Springfield (US) MO,81.3,19325,USA,North America,3*
+196,Austin-Bergstrom International Apt,81.1,124901,USA,North America,3*
+197,Tokyo Narita Intl,81.1,226655,Japan,North East Asia,3*
+198,Lexington Blue Grass Apt,81,23726,USA,North America,3*
+199,Cincinnati Northern Kentucky Intl,81,105652,USA,North America,3*
+200,Colorado Springs Municipal,80.9,22499,USA,North America,3*
+201,Guayaquil,80.9,35355,Ecuador,Upper South America,3*
+202,Kirkwall,80.9,12233,United Kingdom,Western Europe,3*
+203,Saipan,80.9,10325,Northern Mariana Islands,Southwest Pacific,3*
+204,El Paso International Apt,80.9,35131,USA,North America,3*
+205,Cleveland Hopkins International Apt,80.8,105886,USA,North America,3*
+206,Rockhampton,80.8,9239,Australia,Southwest Pacific,3*
+207,Bonaire,80.8,9515,"Bonaire, Saint Eustatius and Saba",Caribbean,3*
+208,Ontario,80.8,44741,USA,North America,3*
+209,Sarasota/Bradenton,80.8,11621,USA,North America,3*
+210,Copenhagen Kastrup Apt,80.7,248426,Denmark,Western Europe,3*
+211,Indianapolis,80.7,105499,USA,North America,3*
+212,Birmingham,80.7,39140,USA,North America,3*
+213,Saskatoon,80.7,21823,Canada,North America,3*
+214,Moline,80.6,13099,USA,North America,3*
+215,Aalborg Airport,80.6,15583,Denmark,Western Europe,3*
+216,Edmonton International Apt,80.6,90113,Canada,North America,3*
+217,Graz,80.6,12922,Austria,Western Europe,3*
+218,Agartala,80.5,9682,India,South Asia,3*
+219,Long Beach,80.5,35500,USA,North America,3*
+220,Knoxville,80.5,34913,USA,North America,3*
+221,St Louis Lambert Intl Apt,80.4,172817,USA,North America,3*
+222,Valencia Airport,80.4,56573,Spain,Western Europe,3*
+223,Memphis,80.4,53570,USA,North America,3*
+224,Milwaukee General Mitchell Intl Apt,80.4,76850,USA,North America,3*
+225,Sioux Falls,80.3,15981,USA,North America,3*
+226,Charleston (US) SC,80.3,48461,USA,North America,3*
+227,Singapore Changi Apt,80.3,362900,Singapore,South East Asia,3*
+228,Bintulu,80.3,10643,Malaysia,South East Asia,3*
+229,Antalya,80.3,94186,Turkey,Western Europe,3*
+230,San Luis Obispo,80.2,9563,USA,North America,3*
+231,Columbia Metropolitan Apt,80.2,20912,USA,North America,3*
+232,Grand Rapids,80.2,38017,USA,North America,3*
+233,Regina,80.2,18327,Canada,North America,3*
+234,South Bend,80.1,12228,USA,North America,3*
+235,Quito,80.1,45149,Ecuador,Upper South America,3*
+236,Navegantes,80.1,15921,Brazil,Upper South America,3*
+237,Columbus John Glenn Intl Apt,80.1,98456,USA,North America,3*
+238,Gainesville,80.1,8771,USA,North America,3*
+239,Curacao,80,21619,Curacao,Caribbean,3*
+240,Savannah Hilton Head International Apt,80,32894,USA,North America,3*
+241,Belem,80,26564,Brazil,Upper South America,3*
+242,Cork,80,19944,Ireland Republic of,Western Europe,3*
+243,Kelowna,80,31886,Canada,North America,3*
+244,Luxembourg,80,50056,Luxembourg,Western Europe,3*
+245,Hyderabad Rajiv Gandhi Intl Arpt,79.9,154968,India,South Asia,3*
+246,State College,79.9,8091,USA,North America,3*
+247,Osaka Kansai International Airport,79.9,174711,Japan,North East Asia,3*
+248,Bangkok Don Mueang International Arpt,79.9,252906,Thailand,South East Asia,3*
+249,Baltimore Washington International Apt,79.8,239093,USA,North America,3*
+250,Nashville,79.8,154155,USA,North America,3*
+251,Mazatlan,79.8,9437,Mexico,Central America,3*
+252,Louisville Intl-Standiford Field,79.8,51270,USA,North America,3*
+253,Fayetteville,79.8,9216,USA,North America,3*
+254,Chennai,79.8,157326,India,South Asia,3*
+255,Muscat,79.7,111633,Oman,Middle East,3*
+256,Norwich,79.7,9513,United Kingdom,Western Europe,3*
+257,Jaipur,79.7,40502,India,South Asia,3*
+258,Los Angeles International Apt,79.7,645170,USA,North America,3*
+259,Las Vegas McCarran International Apt,79.6,352605,USA,North America,3*
+260,Oakland International Apt,79.6,115082,USA,North America,3*
+261,Bengaluru,79.6,204513,India,South Asia,3*
+262,Manchester (US),79.5,25236,USA,North America,3*
+263,Gold Coast,79.5,43083,Australia,Southwest Pacific,3*
+264,Nadi,79.5,23828,Fiji,Southwest Pacific,3*
+265,Monterrey Mariano Escobedo Intl,79.5,96535,Mexico,Central America,3*
+266,Amman Queen Alia International Apt,79.4,66905,Jordan,Middle East,3*
+267,New Orleans Louis Armstrong Intl Apt,79.3,112191,USA,North America,3*
+268,Tampa St Pete-Clearwater Intl Apt,79.3,14554,USA,North America,3*
+269,Kolkata,79.3,148608,India,South Asia,3*
+270,Corpus Christi International Apt,79.3,10906,USA,North America,3*
+271,Providence,79.3,43765,USA,North America,3*
+272,Wilmington (US) NC,79.2,14125,USA,North America,3*
+273,Peoria,79.2,12916,USA,North America,3*
+274,Charleston (US) WV,79.2,11690,USA,North America,3*
+275,Burbank,79.2,58849,USA,North America,3*
+276,Palmerston North,79.1,13333,New Zealand,Southwest Pacific,3*
+277,Miami International Apt,79.1,330534,USA,North America,3*
+278,Jacksonville International Apt,79,62060,USA,North America,3*
+279,Hartford Bradley International Apt,79,68617,USA,North America,3*
+280,Greenville/Spartanburg Intl Apt,79,31974,USA,North America,3*
+281,Chicago O'Hare International Apt,79,854342,USA,North America,3*
+282,Sao Paulo Guarulhos Intl Apt,78.9,254433,Brazil,Upper South America,3*
+283,Calgary,78.9,180424,Canada,North America,3*
+284,Allentown/Bethlehem/Easton,78.8,10749,USA,North America,3*
+285,Greensboro/High Point,78.8,32529,USA,North America,3*
+286,Joao Pessoa,78.8,10713,Brazil,Upper South America,3*
+287,Fort Wayne International,78.8,14970,USA,North America,3*
+288,Helsinki-Vantaa,78.7,169927,Finland,Western Europe,3*
+289,Auckland International Apt,78.7,159777,New Zealand,Southwest Pacific,3*
+290,Oslo Gardermoen Airport,78.7,232698,Norway,Western Europe,3*
+291,Kuching,78.6,46299,Malaysia,South East Asia,3*
+292,Beirut,78.6,62543,Lebanon,Middle East,3*
+293,Raleigh/Durham,78.6,133773,USA,North America,3*
+294,Tampa International Apt,78.6,162947,USA,North America,3*
+295,Cheongju,78.5,12234,Korea Republic of,North East Asia,3*
+296,Buenos Aires Ministro Pistarini,78.5,62517,Argentina,Upper South America,3*
+297,Busan,78.5,108702,Korea Republic of,North East Asia,3*
+298,St Croix Henry E. Rohlsen Apt,78.4,12812,"Virgin Islands, US",Caribbean,3*
+299,Rochester (US) MN,78.4,8484,USA,North America,3*
+300,Washington Ronald Reagan National Apt,78.4,295431,USA,North America,3*
+301,Montgomery Regional-Dannelly Fld,78.4,8154,USA,North America,3*
+302,Milan Bergamo/orio al Serio Apt,78.3,75969,Italy,Western Europe,3*
+303,Okinawa Naha Apt,78.2,139424,Japan,North East Asia,3*
+304,Puerto Montt,78.2,13457,Chile,Upper South America,3*
+305,Norfolk International Apt,78.1,49170,USA,North America,3*
+306,Chattanooga Metropolitan Apt,78.1,17832,USA,North America,3*
+307,Wilkes-Barre/Scranton International Apt,78.1,10070,USA,North America,3*
+308,Fort Myers Sw Florida International Apt,78,69651,USA,North America,3*
+309,Manaus Eduardo Gomes International,78,20401,Brazil,Upper South America,3*
+310,Rotterdam Apt,78,13340,Netherlands,Western Europe,3*
+311,Buffalo,78,58705,USA,North America,3*
+312,Mendoza,78,16966,Argentina,Upper South America,3*
+313,Sydney Kingsford Smith Apt,78,317952,Australia,Southwest Pacific,3*
+314,Dayton James M. Cox Intl Apt,77.9,34779,USA,North America,3*
+315,Ibiza,77.8,58335,Spain,Western Europe,3*
+316,Punta Cana,77.8,38795,Dominican Republic,Caribbean,3*
+317,Harrisburg International Apt,77.8,23874,USA,North America,3*
+318,Vienna International,77.8,220833,Austria,Western Europe,3*
+319,Montego Bay,77.8,28568,Jamaica,Caribbean,3*
+320,Alicante Airport,77.7,89072,Spain,Western Europe,3*
+321,San Jose Juan Santamaria Apt,77.7,68480,Costa Rica,Central America,3*
+322,Augusta Regional (Bush Field),77.7,9996,USA,North America,3*
+323,Philadelphia International Apt,77.7,335276,USA,North America,3*
+324,Roanoke,77.6,14830,USA,North America,3*
+325,Islip,77.6,14194,USA,North America,3*
+326,Ljubljana,77.5,23638,Slovenia,Eastern/Central Europe,3*
+327,Hamburg Airport,77.5,139698,Germany,Western Europe,3*
+328,Addis Ababa,77.4,91703,Ethiopia,Eastern Africa,3*
+329,Naples Capodichino Apt,77.4,68772,Italy,Western Europe,3*
+330,Basel,77.4,59016,Switzerland,Western Europe,3*
+331,Melbourne Airport,77.3,238920,Australia,Southwest Pacific,3*
+332,Rochester (US) NY,77.3,39614,USA,North America,3*
+333,Indore,77.3,19601,India,South Asia,3*
+334,Santiago (CL),77.3,147365,Chile,Upper South America,3*
+335,Richmond (US),77.3,54405,USA,North America,3*
+336,Orlando International Apt,77.2,316241,USA,North America,3*
+337,Amsterdam,77.2,472476,Netherlands,Western Europe,3*
+338,Belfast George Best City Apt,77.2,36755,United Kingdom,Western Europe,3*
+339,Bhubaneshwar,77.1,24946,India,South Asia,3*
+340,Burlington (US) VT,77.1,22639,USA,North America,3*
+341,Napier-Hastings,77,14927,New Zealand,Southwest Pacific,3*
+342,Key West International Apt,77,17451,USA,North America,3*
+343,Munich International Airport,77,384142,Germany,Western Europe,3*
+344,Palma de Mallorca,77,177425,Spain,Western Europe,3*
+345,Malaga Airport,76.9,121936,Spain,Western Europe,3*
+346,Albany International Airport,76.9,41173,USA,North America,3*
+347,Berlin Tegel Apt,76.9,166126,Germany,Western Europe,3*
+348,Charlottesville,76.8,15715,USA,North America,3*
+349,Akron/Canton Regional,76.8,18394,USA,North America,3*
+350,Zagreb,76.7,36913,Croatia,Eastern/Central Europe,3*
+351,Pisa,76.7,35852,Italy,Western Europe,3*
+352,Ahmedabad,76.7,60914,India,South Asia,3*
+353,Portland (US) ME,76.6,29019,USA,North America,3*
+354,Rome Fiumicino Apt,76.6,296552,Italy,Western Europe,3*
+355,Syracuse,76.5,35903,USA,North America,3*
+356,Riga,76.5,71623,Latvia,Eastern/Central Europe,3*
+357,Tallinn,76.5,37365,Estonia,Eastern/Central Europe,3*
+358,Guwahati,76.5,39887,India,South Asia,3*
+359,Pune,76.5,57650,India,South Asia,3*
+360,Bangor,76.5,11033,USA,North America,3*
+361,Asheville/Hendersonville,76.4,15193,USA,North America,2*
+362,Zurich Airport,76.4,240650,Switzerland,Western Europe,2*
+363,Leipzig/Halle,76.3,19033,Germany,Western Europe,2*
+364,Pau,76.3,9373,France,Western Europe,2*
+365,Tenerife Sur Apt,76.1,52454,Spain,Western Europe,2*
+366,Belfast International Apt,76.1,38919,United Kingdom,Western Europe,2*
+367,"Nuremberg, Nuremberg",76,41046,Germany,Western Europe,2*
+368,San Francisco,75.9,438064,USA,North America,2*
+369,Miri,75.9,32125,Malaysia,South East Asia,2*
+370,Port of Spain,75.9,38808,Trinidad and Tobago,Caribbean,2*
+371,Aruba,75.8,25870,Aruba,Caribbean,2*
+372,Acapulco,75.8,8725,Mexico,Central America,2*
+373,Gwangju,75.8,10829,Korea Republic of,North East Asia,2*
+374,St Johns,75.7,25701,Canada,North America,2*
+375,Seoul Gimpo International Airport,75.7,127499,Korea Republic of,North East Asia,2*
+376,Riyadh King Khalid Intl,75.7,187481,Saudi Arabia,Middle East,2*
+377,Hobart,75.7,18906,Australia,Southwest Pacific,2*
+378,New York J F Kennedy International Apt,75.6,432017,USA,North America,2*
+379,Warsaw Frederic Chopin,75.6,155408,Poland,Eastern/Central Europe,2*
+380,Milan Malpensa Apt,75.6,165364,Italy,Western Europe,2*
+381,Chicago Midway Intl,75.6,188931,USA,North America,2*
+382,Fort Lauderdale/Hollywood Intl Apt,75.5,266095,USA,North America,2*
+383,Venice Marco Polo Apt,75.5,82652,Italy,Western Europe,2*
+384,Sibu,75.2,16990,Malaysia,South East Asia,2*
+385,West Palm Beach International Apt,75.1,54956,USA,North America,2*
+386,Bristol,75,60711,United Kingdom,Western Europe,2*
+387,Prague Ruzyne,74.9,125793,Czech Republic,Eastern/Central Europe,2*
+388,Barcelona Apt,74.9,313510,Spain,Western Europe,2*
+389,Florence Peretola Apt,74.8,30690,Italy,Western Europe,2*
+390,Vancouver International Apt,74.7,256593,Canada,North America,2*
+391,Ottawa McDonald - Cartier Intl Apt,74.7,78351,Canada,North America,2*
+392,Frankfurt Hahn Airport,74.7,13766,Germany,Western Europe,2*
+393,Grand Cayman,74.6,16958,Cayman Islands,Caribbean,2*
+394,Inverness,74.6,11888,United Kingdom,Western Europe,2*
+395,Dallas Love Field,74.5,140796,USA,North America,2*
+396,Sharjah,74.5,73609,United Arab Emirates,Middle East,2*
+397,Buenos Aires Aeroparque J. Newbery,74.5,125356,Argentina,Upper South America,2*
+398,Houston William P. Hobby Apt,74.4,122819,USA,North America,2*
+399,Funchal,74.3,22072,Portugal,Western Europe,2*
+400,Boston Edward L Logan Intl Apt,74.3,382485,USA,North America,2*
+401,Labuan,74,8372,Malaysia,South East Asia,2*
+402,London City Apt,74,76933,United Kingdom,Western Europe,2*
+403,Malmo Airport,74,19676,Sweden,Western Europe,2*
+404,Dublin,73.9,213016,Ireland Republic of,Western Europe,2*
+405,London Heathrow Apt,73.9,482451,United Kingdom,Western Europe,2*
+406,New York LaGuardia Apt,73.9,369314,USA,North America,2*
+407,Taipei Taiwan Taoyuan International Apt,73.7,224291,Chinese Taipei,North East Asia,2*
+408,Skopje,73.7,15009,Macedonia Former Yugoslav Republic of,Eastern/Central Europe,2*
+409,Istanbul Ataturk Airport,73.7,437674,Turkey,Western Europe,2*
+410,Halifax Stanfield International Apt,73.5,64818,Canada,North America,2*
+411,Jeju International,73.5,139762,Korea Republic of,North East Asia,2*
+412,Faro,73.5,51621,Portugal,Western Europe,2*
+413,Frankfurt International Apt,73.4,463973,Germany,Western Europe,2*
+414,Ankara Esenboga Apt,73.3,115274,Turkey,Western Europe,2*
+415,Toulouse,73.1,85148,France,Western Europe,2*
+416,Srinagar,73.1,17191,India,South Asia,2*
+417,Tobago,73,15657,Trinidad and Tobago,Caribbean,2*
+418,Aberdeen (GB),73,49920,United Kingdom,Western Europe,2*
+419,Stockholm Skavsta Airport,73,13809,Sweden,Western Europe,2*
+420,Bordeaux Merignac Apt,72.7,57407,France,Western Europe,2*
+421,White Plains,72.7,27469,USA,North America,2*
+422,Ranchi,72.6,16306,India,South Asia,2*
+423,Bagdogra,72.6,16059,India,South Asia,2*
+424,Strasbourg,72.6,18203,France,Western Europe,2*
+425,Bangkok Suvarnabhumi International Apt,72.5,350671,Thailand,South East Asia,2*
+426,Orlando Sanford International Airport,72.4,19741,USA,North America,2*
+427,Geneva,72.3,145938,Switzerland,Western Europe,2*
+428,Kota Kinabalu,72.3,67699,Malaysia,South East Asia,2*
+429,Greater Moncton International Airport,72.2,13590,Canada,North America,2*
+430,London International,72.1,10473,Canada,North America,2*
+431,Krakow John Paul II - Balice,72,46349,Poland,Eastern/Central Europe,2*
+432,Tawau,71.9,12253,Malaysia,South East Asia,2*
+433,Lyon St-exupery Apt,71.8,104706,France,Western Europe,2*
+434,Yekaterinburg,71.6,42118,Russian Federation,Eastern/Central Europe,2*
+435,Exeter,71.5,11836,United Kingdom,Western Europe,2*
+436,Sofia,71.5,49716,Bulgaria,Eastern/Central Europe,2*
+437,Varanasi,71.4,16777,India,South Asia,2*
+438,Bucharest Henri Coanda Apt,71.4,108800,Romania,Eastern/Central Europe,2*
+439,Isle of Man,71.4,13680,United Kingdom,Western Europe,2*
+440,Angeles/Mabalacat,71.3,17574,Philippines,South East Asia,2*
+441,Sandakan,71.3,9340,Malaysia,South East Asia,2*
+442,Liberia,71.2,15268,Costa Rica,Central America,2*
+443,Norman Manley Intl,71.2,14305,Jamaica,Caribbean,2*
+444,Montreal Pierre Elliott Trudeau Int Apt,71.1,206429,Canada,North America,2*
+445,Moscow Vnukovo International Apt,71,123049,Russian Federation,Eastern/Central Europe,2*
+446,Dubai International,71,395904,United Arab Emirates,Middle East,2*
+447,Brussels Airport,70.9,203023,Belgium,Western Europe,2*
+448,Malta,70.9,42305,Malta,Western Europe,2*
+449,Cartagena,70.8,36570,Colombia,Upper South America,2*
+450,Delhi,70.7,445777,India,South Asia,2*
+451,Fredericton,70.6,9978,Canada,North America,2*
+452,Newark Liberty International Apt,70.5,413954,USA,North America,2*
+453,Terceira,70.5,11532,Portugal,Western Europe,2*
+454,Glasgow International Airport,70.3,85837,United Kingdom,Western Europe,2*
+455,Reykjavik Keflavik International Apt,70.3,55326,Iceland,Western Europe,2*
+456,Erzurum,70.3,8761,Turkey,Western Europe,2*
+457,Rome Ciampino Apt,70.3,33692,Italy,Western Europe,2*
+458,Jammu,70.2,13816,India,South Asia,2*
+459,Patna,70,23417,India,South Asia,2*
+460,Goa,69.9,50732,India,South Asia,2*
+461,Shannon,69.9,12955,Ireland Republic of,Western Europe,2*
+462,Goteborg Landvetter Apt,69.7,59994,Sweden,Western Europe,2*
+463,Duesseldorf International Airport,69.4,199985,Germany,Western Europe,1*
+464,Leeds Bradford,69.4,32921,United Kingdom,Western Europe,1*
+465,Larnaca,68.9,49155,Cyprus,Western Europe,1*
+466,Ilo-Ilo,68.9,17288,Philippines,South East Asia,1*
+467,Eindhoven Airport,68.9,34835,Netherlands,Western Europe,1*
+468,Ponta Delgada,68.8,18568,Portugal,Western Europe,1*
+469,Stockholm Bromma Apt,68.6,45801,Sweden,Western Europe,1*
+470,Stockholm Arlanda Apt,68.5,229667,Sweden,Western Europe,1*
+471,Nottingham East Midlands Airport,68.4,31875,United Kingdom,Western Europe,1*
+472,Udaipur,68.4,9802,India,South Asia,1*
+473,Bologna Guglielmo Marconi,68.4,63481,Italy,Western Europe,1*
+474,Nantucket,68.2,22401,USA,North America,1*
+475,Santiago (DO),68.2,11010,Dominican Republic,Caribbean,1*
+476,Kiev Borispol Intl Apt,68.1,78129,Ukraine,Eastern/Central Europe,1*
+477,Catania,68.1,64978,Italy,Western Europe,1*
+478,Hong Kong International Apt,68.1,360211,Hong Kong (sar) China,North East Asia,1*
+479,Paris Charles de Gaulle Apt,68,446278,France,Western Europe,1*
+480,Bacolod,67.9,12684,Philippines,South East Asia,1*
+481,Moscow Domodedovo Apt,67.9,221770,Russian Federation,Eastern/Central Europe,1*
+482,Toronto Lester B Pearson Intl,67.8,443314,Canada,North America,1*
+483,Porto,67.5,82563,Portugal,Western Europe,1*
+484,Cagayan de Oro,67.4,17383,Philippines,South East Asia,1*
+485,Edinburgh,67.3,116972,United Kingdom,Western Europe,1*
+486,Seoul Incheon International Airport,67.1,337718,Korea Republic of,North East Asia,1*
+487,Beijing Capital Intl Apt,67,600380,China,North East Asia,1*
+488,Budapest,66.9,93495,Hungary,Eastern/Central Europe,1*
+489,Guangzhou,66.7,457416,China,North East Asia,1*
+490,Cali,66.5,40750,Colombia,Upper South America,1*
+491,Kuala Lumpur International Airport,66.4,391799,Malaysia,South East Asia,1*
+492,Barranquilla,66,22372,Colombia,Upper South America,1*
+493,Davao,65.7,27257,Philippines,South East Asia,1*
+494,Cebu,65.7,92261,Philippines,South East Asia,1*
+495,London Gatwick Apt,65.4,267013,United Kingdom,Western Europe,1*
+496,Bogota,65.1,268003,Colombia,Upper South America,1*
+497,Lahore,64.6,30205,Pakistan,South Asia,1*
+498,Manila Ninoy Aquino International Apt,63.9,262641,Philippines,South East Asia,1*
+499,Shenzhen,63.7,329933,China,North East Asia,1*
+500,Karachi,63.4,51434,Pakistan,South Asia,1*
+501,Tacloban,62.9,10506,Philippines,South East Asia,1*
+502,Toronto Bishop Billy City A/P,62.7,62029,Canada,North America,1*
+503,Manchester (GB),61.9,180178,United Kingdom,Western Europe,1*
+504,Kuwait,61.7,109400,Kuwait,Middle East,1*
+505,Paris Orly Apt,61.5,231688,France,Western Europe,1*
+506,Yiwu,61.5,11714,China,North East Asia,1*
+507,Lisbon,60.7,204297,Portugal,Western Europe,1*
+508,Mumbai,60,320115,India,South Asia,1*
+509,Puerto Princesa,58.6,13341,Philippines,South East Asia,1*
+510,Jakarta Soekarno-Hatta Apt,58.5,490585,Indonesia,South East Asia,1*
+511,Islamabad,56.9,36231,Pakistan,South Asia,1*
+512,Tunis,43.3,49307,Tunisia,North Africa,1*
