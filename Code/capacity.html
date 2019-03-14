@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <h1 style="position: center">The Capacity of Airport in USA</h1>
+
+  <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+  </style>
+
+  
+</head>
+
+<body>
+
+<div id="myDiv" ></div>
+
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<script >
+    Plotly.d3.csv('https://raw.githubusercontent.com/WebCheng/CS540/master/DB%20SCRIPT_NO/test1.csv', function(err, rows){
+        function unpack(rows, key) {
+            return rows.map(function(row) { return row[key]; });
+        }
+
+        scl = [[0, 'rgb(150,0,90)'],[0.125, 'rgb(0, 0, 200)'],[0.25,'rgb(0, 25, 255)'],[0.375,'rgb(0, 152, 255)'],[0.5,'rgb(44, 255, 150)'],[0.625,'rgb(151, 255, 0)'],[0.75,'rgb(255, 234, 0)'],[0.875,'rgb(255, 111, 0)'],[1,'rgb(255, 0, 0)']];
+        var value= unpack(rows, 'PASSENGERS')
+        var name= unpack(rows, 'AIRPORT_NAME')
+
+        hoverText = []
+        currentSize=[]
+        for ( var i = 0 ; i < value.length; i++) {
+            var currentText = name[i] + "<br>Passenger: " + value[i];
+            var currentsize = value[i]/1000000;
+            currentSize.push(currentsize);
+            hoverText.push(currentText);
+        }
+        var data = [{
+            type: 'scattermapbox',
+            hovermode:'closest',
+            mode: 'markers',
+            text: hoverText,
+            lon: unpack(rows, 'LONGITUDE'),
+            lat: unpack(rows, 'LATITUDE'),
+            marker: {
+                color: value,
+                colorscale: scl,
+                cmin: 0,
+                cmax: 60000000,
+                reversescale: true,
+                opacity: 0.7,
+                size: currentSize,
+                colorbar:{
+                    thickness: 10,
+                    titleside: 'right',
+                    outlinecolor: 'rgba(68,68,68,0)',
+                    ticks: 'outside',
+                    ticklen: 3,
+                    shoticksuffix: 'last',
+                    ticksuffix: 'passengers',
+                    dtick: 10000000
+                }
+            },
+            name: ''
+        }];
+
+
+        layout = {
+            height: 800,
+            dragmode: 'zoom',
+            mapbox: {
+                center: {
+                    lat: 38.03697222,
+                    lon: -90.70916722
+                },
+                domain: {
+                    x: [0, 1],
+                    y: [0, 1]
+                },
+                style: 'dark',
+                zoom: 3
+            },
+            margin: {
+                r: 20,
+                t: 40,
+                b: 20,
+                l: 20,
+                pad: 0,
+
+            },
+            paper_bgcolor: '#191A1A',
+            plot_bgcolor: 'white',
+            showlegend: true,
+            annotations: [{
+                x: 0,
+                y: 0,
+                xref: 'paper',
+                yref: 'paper',
+                text: 'Source: <a href="https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh" style="color: rgb(255,255,255)">NASA</a>',
+                showarrow: false
+            }]
+        };
+
+        Plotly.setPlotConfig({
+            mapboxAccessToken: 'pk.eyJ1IjoiZXRwaW5hcmQiLCJhIjoiY2luMHIzdHE0MGFxNXVubTRxczZ2YmUxaCJ9.hwWZful0U2CQxit4ItNsiQ'
+        })
+
+        Plotly.newPlot('myDiv', data, layout, {showSendToCloud: false});
+    });
+</script>
+
+
+
+
+</body>
+
+</html>
